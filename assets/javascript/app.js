@@ -1,0 +1,1 @@
+var wantNumbers = confirm("Do you want it to contain numbers?");
